@@ -15,7 +15,8 @@ Hospeda los recursos de marca de **Neuralis** que necesitan una URL pública (po
 
 | Archivo | Uso | URL pública |
 |---|---|---|
-| `firma/firma-axel-neuralis.gif` | Firma de correo animada — Axel Mendizabal (Co-Founder & CEO) | https://neuralis-mexico.github.io/public-brand-assets/firma/firma-axel-neuralis.gif |
+| `firma/firma-axel-neuralis.gif` | Versión anterior (correo @neuralis.com) — ya no se usa, no borrar | https://neuralis-mexico.github.io/public-brand-assets/firma/firma-axel-neuralis.gif |
+| `firma/neuralis_Axel_signature_v2.gif` | **Firma de correo animada vigente** — Axel Mendizabal (Co-Founder & CEO), axel.mendizabal@neuralismexico.com | https://neuralis-mexico.github.io/public-brand-assets/firma/neuralis_Axel_signature_v2.gif |
 
 ## Reglas para no romper las firmas
 
